@@ -1,0 +1,23 @@
+# Build directories
+build/
+config_default/
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+
+# IDE
+.vscode/
+*.code-workspace
+.idea/
+
+# CMake
+CMakeUserPresets.json
+
+# Compiled files
+*.o
+*.elf
+*.hex
+*.bin
+
+# Dependencies
+.DS_Store
